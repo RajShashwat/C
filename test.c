@@ -1,3 +1,4 @@
+/*This program is written by Shashwat Raj*/
 #include<stdio.h>
 void push();
 void pop();
